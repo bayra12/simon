@@ -1,6 +1,6 @@
 /* Ерөнхий тохиргоо */
 .body {
-    background-image: url(tree.gif);
+    background-image: url(background-removebg-preview.png);
     background-repeat: no-repeat; /* Дэвсгэр өнгө */
     background-size: cover;
     font-family: Arial, sans-serif;
@@ -15,8 +15,8 @@
   
   .animal {
     position: absolute;
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
     border-radius: 50%;
     background-color: beige;
     margin-top: 25%;
